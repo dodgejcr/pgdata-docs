@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# PGData Documentation
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This documentation is aimed at the admin or maintaining user of the PGData Server and site. It is not for the use of the PGData.org website.
 
-## Commands
+## Layout
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* Basic Linux commands and examples. 
+* User access and control
+* Using the desktop environment
+* Included and useful software
+* Current server configuration
+* File and directory heirarchy
+* Scripts and Data Collection
+* Database configurations and design
+* Apache configurations
+* Website layout
+* node.js
+* d3.js
+* Keeping the system up to date and patched
+* Adding new users, software, and hardware
+* Other useful information
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
